@@ -52,7 +52,7 @@ Mini-map and Reward-map can be printed to console. Both maps are aligned so that
 </p>
 
 
-### Simuation results:
+### Simulation results:
 Grid Size: 6x6-19x19
 
 Enemy Count: 1-2
