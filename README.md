@@ -47,4 +47,26 @@ world.py    -- keeps track of everything (used by Dungeon to draw).
 batch.py    -- runs simulations.
 
 
+### Simuation results:
+Grid Size: 6x6-19x19
 
+Enemy Count: 1-2
+
+Pit Count: 1-19
+
+Gold Count: 1-4
+
+Environments: STATIC/DYNAMIC
+
+Outcome: WON/LOST
+
+Death Reason: PIT/WUMPUS
+
+|   ENV   | OUTCOME | REASON |     |
+|:-------:|:-------:|:------:|:---:|
+| Dynamic |   Lost  |   Pit  | 10% |
+| Dynamic |   Lost  | Wumpus | 66% |
+| Dynamic |   Won   |    -   | 22% |
+|  Static |   Lost  |   Pit  | 20% |
+|  Static |   Lost  | Wumpus |  2% |
+|  Static |   Won   |    -   | 78% |
