@@ -3,6 +3,11 @@
 
 Wumpus-World is a 2D game environment made to test AI agent functionality. The initial world is written by Prof. Simon Parsons (https://scholar.google.co.uk/citations?user=L9z6PakAAAAJ&hl=en), Q-learning functionality + minor bug fixes added 2021.
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> ead3103932b4be30a03717d26fe5351df8c101af
 <p align="center">
   <div align="center">
   STATIC ENV
@@ -12,6 +17,7 @@ Wumpus-World is a 2D game environment made to test AI agent functionality. The i
   DYNAMIC ENV
 </div>
   <img src="https://github.com/TheMemoryDealer/Wumpus-World/blob/main/assets/expl4.gif" width="900" alt="animated" />
+<<<<<<< HEAD
     <div align="center">
   DYNAMIC ENV, 2 WUMPUS
 </div>
@@ -26,6 +32,9 @@ Wumpus-World is a 2D game environment made to test AI agent functionality. The i
 * Links expected route functionality (still taking non-deterministic actions into account so might not be accurate) and action to be taken next (UP,DOWN,LEFT,RIGHT).
 * What I call 'suicide functionality'. If Link's next goal is closed off by pits or Wumpus', he realizes there is no way out and starts performing random actions.
 
+=======
+</p>
+>>>>>>> ead3103932b4be30a03717d26fe5351df8c101af
 
 
 Run the game using:
