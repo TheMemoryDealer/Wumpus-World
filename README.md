@@ -46,6 +46,11 @@ world.py    -- keeps track of everything (used by Dungeon to draw).
 
 batch.py    -- runs simulations.
 
+Mini-map and Reward-map can be printed to console. Both maps are aligned so that the rewards make sense. Expect a large output.
+<p align="center">
+  <img src="https://github.com/TheMemoryDealer/Wumpus-World/blob/main/assets/pic2.jpg" width="500" />
+</p>
+
 
 ### Simuation results:
 Grid Size: 6x6-19x19
