@@ -5,9 +5,16 @@ Wumpus-World is a 2D game environment made to test AI agent functionality. The i
 
 
 
-
-
-
+<p align="center">
+  <div align="center">
+  STATIC ENV
+</div>
+  <img src="https://github.com/TheMemoryDealer/Wumpus-World/blob/main/assets/expl1.gif" width="900" alt="animated" />
+  <div align="center">
+  DYNAMIC ENV
+</div>
+  <img src="https://github.com/TheMemoryDealer/Wumpus-World/blob/main/assets/expl4.gif" width="900" alt="animated" />
+</p>
 
 
 Run the game using:
