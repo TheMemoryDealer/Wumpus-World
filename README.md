@@ -1,33 +1,18 @@
 # Wumpus-World
+
+
+Wumpus-World is a 2D game environment made to test AI agent functionality. The initial world is written by Prof. Simon Parsons (https://scholar.google.co.uk/citations?user=L9z6PakAAAAJ&hl=en), Q-learning functionality + minor bug fixes added 2021.
+
+
+
+
+
+
+
+
 Run the game using:
 
-python3 game.py
-
-Your job, as in the assignment brief, is to write code that controls
-Link.
-
-To do that, your code needs to specify a value for the function
-makeMove() in link.py to return. There are four legal values for
-makeMove() to return:
-
-Directions.NORTH
-Directions.SOUTH
-Directions.EAST
-Directions.WEST
-
-The simple code in link.py just moves Link towards the next gold in
-the list.
-
-You only need to write code in link.py to create your solution, but
-you will also need to modify:
-
-config.py
-
-which allows you to change the configuration of the game --- change
-the size of the grid, the number of pits, the number of Wumpus and so
-on.
-
-The rest of the files are as follows:
+```python3 game.py```
 
 dungeon.py  -- draws the dungeon on the screen.
 
@@ -38,6 +23,8 @@ graphics.py -- simple Python graphics.
 utils.py    -- utilities used in a few places.
 
 world.py    -- keeps track of everything (used by Dungeon to draw).
+
+batch.py    -- runs simulations.
 
 
 
