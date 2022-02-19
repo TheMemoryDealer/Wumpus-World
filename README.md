@@ -30,6 +30,7 @@ Wumpus-World is a 2D game environment made to test AI agent functionality. The i
 
 Run the game using:
 `python game.py`
+
 If on Linux, run like so to produce log file:
 `python batch.py | tee log.txt`
 
